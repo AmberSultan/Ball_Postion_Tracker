@@ -33,12 +33,12 @@ Before you begin, ensure you have the following installed:
 Installation
 Clone the repository:
 ```
-git clone https://github.com/your-username/ball-tracking-app.git
+git clone https://github.com/your-username/ball-tracker.git
 ```
 Navigate to the project directory:
 
 ```
-cd ball-tracking-app
+cd ball-tracker
 ```
 
 ### Install dependencies for backend:
